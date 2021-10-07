@@ -1,3 +1,10 @@
 # Red Studio Ragnarök
 
-![Ragnarök Banner](https://user-images.githubusercontent.com/82710983/133910947-9c2cf8ef-3a9f-4fdd-898d-87b6577df588.png)
+[![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82710983/136362452-cde321fd-3dda-483d-afa3-bd1a546af7c0.png" width="750" />
+  </p>
+  
+<!--<a href="https://github.com/Red-Studio-Ragnarok/Alesia">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Studio-Ragnarok&repo=Alesia&theme=github_dark&hide_border=true" />-->
