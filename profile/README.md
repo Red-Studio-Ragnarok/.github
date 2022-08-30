@@ -6,6 +6,4 @@
   
 ## What are we working on?
 - <!--[-->Alesia<!--](https://github.com/Red-Studio-Ragnarok/Alesia)-->
-  
-<!--<a href="https://github.com/Red-Studio-Ragnarok/Alesia">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Red-Studio-Ragnarok&repo=Alesia&theme=github_dark&hide_border=true" />-->
+- <!--[-->Fancier Block Particles<!--](https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles)-->
