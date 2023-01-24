@@ -5,6 +5,14 @@
 [![Discord](https://img.shields.io/discord/807316234436608020?color=586AEA&style=for-the-badge&label=Discord&logo=discord)](https://discord.gg/hKpUYx7VwS)
   
 ## What are we working on?
+
+- [Fancier Block Particles]
+
+[![Curse Forge](https://cf.way2muchnoise.eu/title/666575_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles)
+
 - <!--[-->Alesia<!--]-->
-- <!--[-->Fancier Block Particles<!--]-->
-[![Curse Forge](https://cf.way2muchnoise.eu/title/fancier-block-particles_Get_%20.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/mc-mods/fancier-block-particles)
+
+[Fancier Block Particles]: https://github.com/Red-Studio-Ragnarok/Fancier-Block-Particles
+
+
+
