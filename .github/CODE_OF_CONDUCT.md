@@ -1,38 +1,43 @@
-# Ragnarök Versioning Convention Version 1.0
+# Ragnarök Code of Conduct Version 1.0
 
-The Ragnarök Versioning Convention is used for Red Studio projects, providing a simple and easy to follow scheme for versioning. Version numbers follow one of these formats:
+## Our Pledge
 
-- X.Y
-- X.Y.Z
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our projects a respectful and harassment-free experience for everyone.
 
-Each component (X, Y, Z) represents a level of change:
+## Our Standards
+- **Focusing on the code and intent, not the person:** We judge contributions based on the quality of the code and the intent behind changes. Personal characteristics of contributors are irrelevant in these projects.
+- **Friendly and professional interactions:** We value friendliness and professionalism. All communication, whether it's discussing a bug, proposing a new feature, or simply chatting about the project, should be conducted in a respectful and professional manner.
+- **Sharing ideas:** Our projects thrives on new ideas. We encourage all members of our community to share their ideas and suggestions, as they often lead to more and better ideas.
+- **No politics:** We believe that our projects is not the place for political discussions or debates. Our focus should always be on improving our projects.
 
-## Major Version (X)
+## Unacceptable Behavior
 
-"X" represents the major version. Changes in the major version signal significant shifts in the project such as a complete redesign, major architectural change, or a major feature release. It's primarily used to keep the minor version within a single-digit range for simplicity.
+The following types of behavior are considered unacceptable within our projects:
 
-When a project is in its beta phase, the major version is set to "0". This allows for up to ten updates before the product is ready for a stable release.
+- Harassment, including any unwelcome attention, contact, or comments.
+- Discrimination of any kind.
+- Personal attacks, verbal abuse, or derogatory comments.
+- Trolling, sustained disruption, or posting inflammatory or derogatory messages with the intent of causing disruption.
+- Publication of private communications or personal information without consent.
 
-In beta, the following versions have specific focuses:
+## Enforcement
 
-- 0.8: Emphasizes internal changes and structural modifications.
-- 0.9: Focuses on refining existing features and functionality.
-- 1.0: Completes a comprehensive bug sweep to ensure all known bugs are addressed before the stable release.
+If a participant engages in behavior that violates this Code of Conduct, project maintainers will take appropriate action. This may include issuing a warning, temporarily banning the participant from the project, or, in extreme cases, permanently banning the participant. We believe in giving people second chances, and we will usually issue a warning before taking more drastic measures.
 
-Upon incrementing the major version, minor and hotfix versions reset to zero.
+## Scope
 
-## Minor Version (Y)
+This Code of Conduct applies within all project spaces, and also applies when an individual is representing the project or its community in public spaces.
 
-"Y" is the minor version. This number can increment up to infinity. When the major version is increased by one this resets to zero.
+## Contact
 
-## Hotfix Version (Z)
+If you have any questions or need to report a violation of this Code of Conduct, please contact the project maintainers.
 
-"Z" is the hotfix version. These are expedient updates designed to address bugs and other pressing issues. Unlike minor versions, hotfix versions don't have an upper limit.
+## Continuous Evolution
 
-## Development (Dev) Versions
+Recognizing the dynamic and evolving nature of our community and the world in which we interact, we acknowledge that this Code of Conduct is not static. It will be reviewed and updated periodically to reflect new insights, challenges, and the needs of our community. 
 
-While working on an update, developers should append a "-Dev-X" suffix to the standard version number. Here, "X" is a number indicating the build's version. This number should be incremented each time a new build is published to provide a clear record of the development process.
+We strongly encourage every member of our community to contribute to this evolution. Feedback, suggestions, and constructive criticism about our Code of Conduct are always welcome. Your perspective can help us to maintain an environment that respects and values all participants. 
 
-## Compatibility
+We commit to listening to your feedback and considering all perspectives in our ongoing effort to ensure our Code of Conduct serves the best interests of our entire community.
 
-In beta phases, backward compatibility may break multiple times. Otherwise, the Ragnarök Versioning Convention doesn't provide explicit information about backward compatibility.
+To provide feedback or suggestions, please reach out to the project maintainers. Every voice matters, and together we can make a more welcoming and inclusive community.
