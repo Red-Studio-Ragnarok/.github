@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/82710983/149596163-8c0a9610-2bfb-41b8-a923-22a9c4b7affb.png" width="750" />
 </p>
 
-[![Buy Me a Coffee](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/donate/buymeacoffee-singular_vector.svg)](https://www.buymeacoffee.com/desoroxxx)
 [![Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/hKpUYx7VwS)
   
 # Our Projects
@@ -40,12 +39,6 @@
 [![Curse Forge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/mc-mods/flexipause)
 [![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/mod/flexipause)
 
-## Gradle Plugins
-
-- [Gradle Embeder](https://github.com/Red-Studio-Ragnarok/Gradle-Embeder)
-
-[![Gradle Embeder](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/gradle-plugin-portal_vector.svg)](https://plugins.gradle.org/plugin/dev.redstudio.gradleembeder)
-
 # Our Archived Projects
 
 ## Websites
@@ -53,25 +46,3 @@
 - [CaRPMapProject](https://github.com/Red-Studio-Ragnarok/CaRPMapProject)
 
 [![CaRPMapProject](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/website_vector.svg)](https://red-studio-ragnarok.github.io/CaRPMapProject/)
-
-# Want to have your own mod or support me?
-
-If you are looking for a mod but do not have the development skills or time, consider commissioning me!
-My commissions are currently open, and I would be happy to create a custom mod to fit your needs as long as you provide assets.
-
-[Commissions]
-
-You can also support me monthly by becoming a member.
-To thank you will have the possibility to access exclusive post and messages, Discord channel for WIP content, and even access to unreleased Prototypes or WIP Projects.
-
-[Membership]
-
-You can also [buy me a hot chocolate].
-
-[Commissions]: https://www.buymeacoffee.com/desoroxxx/commissions
-[Membership]: https://www.buymeacoffee.com/desoroxxx/membership
-[buy me a hot chocolate]: https://www.buymeacoffee.com/desoroxxx
-
-[Buy Me a Coffee]: https://www.buymeacoffee.com/desoroxxx
-[My Portfolio]: https://desoroxxx.github.io/Portfolio/
-[My Willow]: https://wlo.link/@Desoroxxx
